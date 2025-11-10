@@ -1,0 +1,1 @@
+A brief description of what this project does and who it's for It is actually my try for making a assistant which can help you in evry way possible but for now it is my trial of all learining.But it is voice assistant so...:D
